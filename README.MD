@@ -1,6 +1,6 @@
 # Notes
 
-This repo is for the Ambar Event Sourcing / Microservices courses. 
+This repo is for the Ambar Event Sourcing / Microservices courses. Testing
 You can use this repo to deploy a real world credit card application which leverages both event sourcing and microservices 
 to create a larger application. Note that this is an academic example, implemented in multiple languages and with multiple 
 components - you should not expect to deeply understand everything in all the languages.
